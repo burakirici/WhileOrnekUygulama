@@ -1,0 +1,14 @@
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/bin/Debug/net8.0/WhileOrnek
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/bin/Debug/net8.0/WhileOrnek.deps.json
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/bin/Debug/net8.0/WhileOrnek.runtimeconfig.json
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/bin/Debug/net8.0/WhileOrnek.dll
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/bin/Debug/net8.0/WhileOrnek.pdb
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.AssemblyInfoInputs.cache
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.AssemblyInfo.cs
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.dll
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/refint/WhileOrnek.dll
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.pdb
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/WhileOrnek.genruntimeconfig.cache
+/Users/burakkirici/Desktop/WhileOrnek/WhileOrnek/obj/Debug/net8.0/ref/WhileOrnek.dll
